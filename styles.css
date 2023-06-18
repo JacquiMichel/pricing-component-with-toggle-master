@@ -14,7 +14,7 @@ body {
   font-size: 15px;
   min-height: 100vh;
   background-color: var(--Very-Light-Grayish-Blue);
-  background-image: url(images/bg-top.svg), url(images/bg-bottom.svg);
+  background-image: url(assets/bg-top.svg), url(assets/bg-bottom.svg);
   background-repeat: no-repeat;
   background-position: right top, left bottom;
 }
